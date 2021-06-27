@@ -1,0 +1,56 @@
+body
+{
+  color: black;
+  background-image: url("https://graphicriver.img.customer.envatousercontent.com/files/317186917/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=20f637da9202719f4acfd7f911343454");
+  background-size: cover;
+  font-family: 'Playfair Display', serif;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#gesture1 ,#gesture2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size: 48px;
+}
+#header
+{
+  font-size: 32px;
+  letter-spacing: 10px;
+  border-radius: 20px;
+}
+label
+{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  font-weight: bold;
+
+}
+.buttons
+{
+  font-size: 18px;
+}
+#info{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 40%;
+    border-radius: 100px;
+  }
